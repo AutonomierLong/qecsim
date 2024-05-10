@@ -10,7 +10,7 @@
 + Hermitian.
 + $E\neq I^{\otimes n},\ TrE = 0$.
 + $E^2 = I^{\otimes n}$, which means the eigen values of E is +1 and -1.
-+ $E1E2 = E2E1\ or \ E1E2 = -E2E1$, which mean either commute or anti-commute.
++ $E1E2 = E2E1\ or \ E1E2 = -E2E1$, which mean either **commute **or **anti-commute**.
 
 ![image-20240505170606598](./../../../../../../code/Markdown/images/image-20240505170606598.png)
 
@@ -63,7 +63,7 @@ Example:
 
   Let S be the stabilizer group.
 
-  $|\psi \rangle$ be the state in the codespace.
+  $|\psi \rangle$ be the state in the code-space.
 
   $L$ be a logical operator.
   $$
@@ -71,7 +71,7 @@ Example:
   \implies LS_j|\psi\rangle = L|\psi\rangle,\ S_j \in S \\
   $$
 
-  > Given a logical operator L, there exists a family of $|s|=2^m$ operators$\set{LS_j}$ that act equivalently on the codespace.
+  > Given a logical operator L, there exists a family of $|s|=2^m$ operators$\set{LS_j}$ that act equivalently on the code-space.
 
 + Centralizer or Normalizer
 
